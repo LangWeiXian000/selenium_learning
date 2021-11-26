@@ -5,13 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70673ee0-86d2-47af-a093-7234cf68825a" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/keys_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/select_form.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/switch_iframe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_wait.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/window_alert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonProject_selenium_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject_selenium_test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
