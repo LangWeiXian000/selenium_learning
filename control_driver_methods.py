@@ -1,5 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
 from time import sleep,ctime
 from selenium.webdriver import ActionChains
 
@@ -88,4 +89,5 @@ if __name__ == '__main__':
     # case.test_window_handles()
     # case.test_refresh()
     # case.test_element_methods()
-    case.test_Action_methods()
+    # case.test_Action_methods()
+
